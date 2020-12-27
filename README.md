@@ -6,7 +6,7 @@ Using an S3 bucket and speed up content delivery using AWS’s content distribut
 
 CloudFront Distribution Domain Name:
 
-d1o55vxw79yrcp.cloudfront.net/index.html
+http://d1o55vxw79yrcp.cloudfront.net/index.html
 
 S3 Bucket Website Endpoint:
 
